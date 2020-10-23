@@ -88,4 +88,4 @@ client.on('message', message => {
 
 });
 
-client.login(token); // Log the bot in using the token provided in the config file
+client.login(NzY4OTY1MzUzOTQxNjMxMDQ4.X5IIyw.OzqaHeT0npRCB37HVXy3jpj39tg); // Log the bot in using the token provided in the config file
